@@ -1,4 +1,4 @@
 {
   "متن": "برنامه نویسان\n@sketchwarre",
-  "تصویر": "https://github.com/users/mahdy-ali/projects/1#card-58503883"
+  "تصویر": "https://8pic.ir/uploads/ic-launcher-30-.png"
 }
