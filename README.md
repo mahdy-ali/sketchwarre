@@ -1,6 +1,6 @@
 {
   "متن": "کانال ما در روبیکا \u003d\u003e            @sketchwarre",
-  "تصویر": "https://up.hojrweb.ir/file/IMG_20210327_101001_668.jpg",
+  "تصویر": "https://up.hojrweb.ir/file/3170025776.jpg",
   "کانال": "Sketchwarre",
   "فیلم_سکه_ابزاریکا": "https://up.hojrweb.ir/file/Button_nice.mp4",
   "فیلم_پشتیبانی_ایمیل": "https://up.hojrweb.ir/file/2543305315.mp4",
