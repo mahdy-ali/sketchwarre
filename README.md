@@ -21,5 +21,6 @@
   "کمک_تصویر": "https://up.hojrweb.ir/file/۲۰۲۱۰۴۱۱_۱۵۴۱۴۹.jpg",
   "کلید_برگشت": "https://up.hojrweb.ir/file/exit_login.png",
   "کلید_بازیابی": "https://up.hojrweb.ir/file/square_recovery.png",
-  "تصویر_کپی": "https://up.hojrweb.ir/file/cooy_clide.png"
+  "تصویر_کپی": "https://up.hojrweb.ir/file/cooy_clide.png",
+  "فیلم_ماشین_حساب": "https://up.hojrweb.ir/file/VID_20210414_174427_930.mp4"
 }
