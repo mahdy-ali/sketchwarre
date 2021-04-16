@@ -27,5 +27,5 @@
   "بروزرسانی": "🤩برنامه شما کاملا به روز است🤩",
   "پایتون_قسمت۱": "https://up.hojrweb.ir/dl6/s8454name_identiffiers.mp4",
   "پایتون_قسمت۲": "https://up.hojrweb.ir/dl7/s3479variables_and_identifiers.mp4",
-  "پی اچ پی_قسمت۱": "http://toolsiner.parsaspace.com/01_PHP_TopLearn.mp4"
+  "پی اچ پی_قسمت۱": "https://8pic.ir/do.php?filename=Compressed-۲۰۲۱۰۴۱۶-۱۱۵۱۵۳.mp4"
 }
