@@ -37,5 +37,7 @@
   "دانلود_مدل_گوشی": "https://rizy.ir/dl_model_mobile",
   "دانلود_ساخت_پیامرسان": "https://rizy.ir/dl_payam_resan",
   "دانلود_دفترچه_باقابلیت_ذخیره": "https://rizy.ir/Dl_notpad_with_save",
-  "دانلود_فیلم_ماشین_حساب": "https://rizy.ir/dl_calculator"
+  "دانلود_فیلم_ماشین_حساب": "https://rizy.ir/dl_calculator",
+  "تبلیغات": "https://www.uplooder.net/img/image/32/fef616154ad150da4ac39ea7e62d4730/۲۰۲۱۰۴۲۰-۰۹۳۸۲۷.png",
+  "تبلیغ": "آره"
 }
