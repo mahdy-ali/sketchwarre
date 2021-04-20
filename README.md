@@ -27,7 +27,7 @@
   "بروزرسانی": "🤩برنامه شما کاملا به روز است🤩",
   "پایتون_قسمت۱": "https://my.uupload.ir/p/JGNEE2e",
   "پایتون_قسمت۲": "https://my.uupload.ir/p/Vb5VW0b",
-  "پی اچ پی_۱": "https://my.uupload.ir/dl/Vb5VJmb",
+  "پی اچ پی_۱": "https://my.uupload.ir/p/15yr4Kb",
   "پی اچ پی_۲": "https://my.uupload.ir/p/15yr4Kb",
   "دانلود_فیلم_منوزیرین": "https://rizy.ir/Dl_gmail_support",
   "دانلود_فیلم_پشتیبانی_ایمیل": "https://rizy.ir/Dl_gmail_support",
