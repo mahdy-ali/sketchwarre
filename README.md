@@ -40,5 +40,6 @@
   "دانلود_فیلم_ماشین_حساب": "https://rizy.ir/dl_calculator",
   "تبلیغات": "https://www.uplooder.net/img/image/32/310a3a3d121577dbcd360917f73f4e88/4-1-750x500.png",
   "تبلیغ": "نه",
-  "چنل": "نه"
+  "چنل": "نه",
+  "تصویر۲": "https://s3.uupload.ir/files/toolsiner/Images/images (1).png"
 }
