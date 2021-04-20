@@ -38,6 +38,6 @@
   "دانلود_ساخت_پیامرسان": "https://rizy.ir/dl_payam_resan",
   "دانلود_دفترچه_باقابلیت_ذخیره": "https://rizy.ir/Dl_notpad_with_save",
   "دانلود_فیلم_ماشین_حساب": "https://rizy.ir/dl_calculator",
-  "تبلیغات": "https://www.uplooder.net/img/image/1/86cbe6cfa0e91c8e13c569e215339206/تبلیغات-بنری.png",
+  "تبلیغات": "https://www.uplooder.net/img/image/32/310a3a3d121577dbcd360917f73f4e88/4-1-750x500.png",
   "تبلیغ": "آره"
 }
