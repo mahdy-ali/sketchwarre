@@ -1,7 +1,7 @@
 {
   "متن": "کانال ما در روبیکا \u003d\u003e @sketchwarre",
   "تصویر": "https://www.uplooder.net/img/image/12/541f21370c1c48d10a6cbece267ac380/%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B4%DB%B1%DB%B6-%DB%B1%DB%B8%DB%B0%DB%B3%DB%B5%DB%B0.jpg",
-  "کانال": "srh_team",
+  "کانال": "Sketchwarre",
   "فیلم_منو_زیرین": "https://my.uupload.ir/p/kVGGaOX",
   "فیلم_پشتیبانی_ایمیل": "https://my.uupload.ir/p/dR20aXE",
   "فیلم_چرخش_متن": "https://my.uupload.ir/p/nNnN0gV",
@@ -39,5 +39,6 @@
   "دانلود_دفترچه_باقابلیت_ذخیره": "https://rizy.ir/Dl_notpad_with_save",
   "دانلود_فیلم_ماشین_حساب": "https://rizy.ir/dl_calculator",
   "تبلیغات": "https://www.uplooder.net/img/image/32/310a3a3d121577dbcd360917f73f4e88/4-1-750x500.png",
-  "تبلیغ": "آره"
+  "تبلیغ": "آره",
+  "چنل": "آره"
 }
