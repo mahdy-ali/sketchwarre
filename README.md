@@ -42,6 +42,6 @@
   "تبلیغ": "نه",
   "چنل": "نه",
   "تصویر۲": "https://s3.uupload.ir/files/toolsiner/Images/images.png",
-  "جاوااسکریپت_۱": "https://my.uupload.ir/p/vjzJObb",
-  "جاوااسکریپت_۲": ""
+  "جاوااسکریپت_۱": "https://s3.uupload.ir/files/toolsiner/Programing/Js-01.mp4",
+  "جاوااسکریپت_۲": "https://s3.uupload.ir/files/toolsiner/Programing/02.mp4"
 }
