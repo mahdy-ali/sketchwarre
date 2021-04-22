@@ -43,5 +43,7 @@
   "چنل": "نه",
   "تصویر۲": "https://s3.uupload.ir/files/toolsiner/Images/images.png",
   "جاوااسکریپت_۱": "https://my.uupload.ir/p/vjzJObb",
-  "جاوااسکریپت_۲": "https://my.uupload.ir/p/VdkOy1p"
+  "جاوااسکریپت_۲": "https://my.uupload.ir/p/VdkOy1p",
+  "متن_۲": "تنظیم تنظیمات",
+  "متن_۳": "برنامه نویس"
 }
