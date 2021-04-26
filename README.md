@@ -24,7 +24,7 @@
   "تصویر_کپی": "https://www.uplooder.net/img/image/8/e37f6db2623fce817a37539f03e56566/cooy-clide.png",
   "فیلم_ماشین_حساب": "https://my.uupload.ir/p/nWbR07V",
   "متن_فیلم_ماشین_حساب": "آموزش ساخت ماشین حساب",
-  "بروزرسانی": "بروز نشود",
+  "بروزرسانی": "بروز شود",
   "پایتون_قسمت۱": "https://my.uupload.ir/p/JGNEE2e",
   "پایتون_قسمت۲": "https://my.uupload.ir/p/Vb5VW0b",
   "پی اچ پی_۱": "https://my.uupload.ir/p/15yr4Kb",
@@ -174,8 +174,8 @@
   "تصویر۳": "https://s3.uupload.ir/files/toolsiner/Images/%D8%A8%D8%A7%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C.jpeg",
   "کانال_ما_تنظیمات": "Sketchwarre",
   "آیدی_پشتیبانی_روبیکا": "Support_Toolsiner_App",
-  "عنوان": "تست",
-  "پیغام": "تست",
-  "OK": "تست",
-  "کنسل": "تست"
+  "عنوان": "ابزارینر|Toolsiner",
+  "پیغام": "? . . نسخه جدید برنامه در دسترس است آیا مایل به بروز رسانی هستید . . ؟",
+  "OK": "بروزرسانی",
+  "کنسل": "بعداََ"
 }
