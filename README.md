@@ -24,7 +24,7 @@
   "تصویر_کپی": "https://www.uplooder.net/img/image/8/e37f6db2623fce817a37539f03e56566/cooy-clide.png",
   "فیلم_ماشین_حساب": "https://my.uupload.ir/p/nWbR07V",
   "متن_فیلم_ماشین_حساب": "آموزش ساخت ماشین حساب",
-  "بروزرسانی": "بروز شود",
+  "بروزرسانی": "بروز است",
   "پایتون_قسمت۱": "https://my.uupload.ir/p/JGNEE2e",
   "پایتون_قسمت۲": "https://my.uupload.ir/p/Vb5VW0b",
   "پی اچ پی_۱": "https://my.uupload.ir/p/15yr4Kb",
