@@ -173,5 +173,8 @@
   "باتون__۳۰": "ثابت",
   "تصویر۳" : "https://s3.uupload.ir/files/toolsiner/Images/%D8%A8%D8%A7%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C.jpeg",
   "کانال_ما_تنظیمات" :"Sketchwarre",
-  "آیدی_پشتیبانی_روبیکا" :"Support_Toolsiner_App"
-}
+  "آیدی_پشتیبانی_روبیکا" :"Support_Toolsiner_App",
+  "عنوان" :"تست",
+  "پیغام" :"تست",
+  "OK" :"تست",
+  "کنسل" :"تست"
