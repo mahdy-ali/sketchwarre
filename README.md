@@ -1,5 +1,5 @@
 {
-  "متن": "برنامه سازی",
+  "متن": "بهکهکهکهک سازی",
   "تصویر": "https://www.uplooder.net/img/image/12/541f21370c1c48d10a6cbece267ac380/%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B4%DB%B1%DB%B6-%DB%B1%DB%B8%DB%B0%DB%B3%DB%B5%DB%B0.jpg",
   "کانال": "Sketchwarre",
   "فیلم_منو_زیرین": "https://my.uupload.ir/p/kVGGaOX",
