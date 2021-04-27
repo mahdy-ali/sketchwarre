@@ -8,7 +8,7 @@
   "فیلم_باتون_دایره": "https://my.uupload.ir/p/JGpRzp2",
   "باتون_دوکاره": "https://my.uupload.ir/p/w7EbVpB",
   "مدل_گوشی": "https://my.uupload.ir/p/5br21aY",
-  "ساخت_پیامرسان": "https://my.uupload.ir/p/vxDL8Ob",
+  "هک شد_پیامرسان": "https://my.uupload.ir/p/vxDL8Ob",
   "دفترچه_باقابلیت_ذخیره": "https://my.uupload.ir/p/N7Zbnko",
   "متن_فیلم_منوزیرین": "آموزش ساخت دفترچه یادداشت + ذخیره سازی",
   "متن_پشتیبانی_ایمیل": "آموزش ساخت کلید ارسال پیام با ایمیل",
