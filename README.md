@@ -195,7 +195,7 @@
   "متن_پایین_سایت۱": " سایت تحلیلی خبری معروف ایران",
   "لوگو_سایت۲": "https://iranich.com/wp-content/uploads/2019/04/file_2481.jpg",
   "متن_بالای_سایت۲": "فارسروید",
-  "متن_پایین_سایت۲": "دانلود بازی و برنامه برای PC و Android",
+  "متن_پایین_سایت۲": "آپلود بازی و برنامه برای PC و Android",
   "لوگو_سایت۳": "https://apahkam.ir/wp-content/uploads/2020/06/%D9%88%D8%B1%D9%88%D8%AF-%D8%A8%D9%87-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AF%DB%8C%D8%AC%DB%8C-%DA%A9%D8%A7%D9%84%D8%A7.jpg",
   "متن_بالای_سایت۳": "دیجی کالا",
   "متن_پایین_سایت۳": "سایت خرید و فروش آنلاین کالا",
@@ -205,5 +205,12 @@
   "لینک_سایت۱": "https://asriran.com",
   "لینک_سایت۲": "https://farsroid.com",
   "لینک_سایت۳": "https://digikala.com",
-  "لینک_سایت۴": "https://aparat.com"
+  "لینک_سایت۴": "https://aparat.com",
+  "دانلود_سایت۱": "https://rizy.ir/Download-Chatrom",
+  "دانلود_سایت۲": "https://rizy.ir/Download-Nightmode",
+  "دانلود_سایت۳": "https://rizy.ir/Download-String",
+  "دانلود_سایت۴": "https://rizy.ir/Download-Model",
+  "دانلود_سایت۵": "https://rizy.ir/Download-Calculator",
+  "دانلود_سایت۶": "https://rizy.ir/Download-Gmail",
+  "دانلود_سایت۷": "https://rizy.ir/Download-Notpad"
 }
