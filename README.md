@@ -229,5 +229,6 @@
   "آموزش_رفتن_به_سایت": "https://my.uupload.ir/p/wObdXorW",
   "آموزش_باتون_دایره": "https://my.uupload.ir/p/JGpRzp2",
   "آموزش_کاستوم_دیباگ": "https://my.uupload.ir/p/2k18xvyx",
-  "آموزش_دیالوگ_یکبارمصرف": "https://my.uupload.ir/p/e6oV4zw"
+  "آموزش_دیالوگ_یکبارمصرف": "https://my.uupload.ir/p/e6oV4zw",
+  "متن_فیلم_منوزیرین۲": "آموزش ساخت منو زیرین"
 }
